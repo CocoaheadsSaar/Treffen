@@ -1,0 +1,10 @@
+---
+applications:
+- name: swift-myapp
+  instances: 1
+  memory: 256M
+  host: swift-myapp
+  domain: eu-gb.mybluemix.net
+  #buildpack: https://github.com/cloudfoundry-community/swift-buildpack
+  buildpack: https://github.com/gogolok/swift-buildpack.git
+  command: myapp --workers 1 --bind 0.0.0.0:$PORT
