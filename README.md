@@ -16,3 +16,9 @@ Kontaktadresse: alle at cocoaheadssaar.de
 Vorträge: 
 - Erfahrungen mit UI Erstellung ohne Storyboard
 - Cloud Foundry (PasS), Buildpacks (Runtime Support für Anwendungen auf dem PaaS) und dem Swift-Buildpack
+
+### 2.Treffen, 25.02.2016, Ligatura Coworker Space
+
+Vorträge:
+- Autolayout Teil 2 - mehr Praxis
+- UI Debugging 
